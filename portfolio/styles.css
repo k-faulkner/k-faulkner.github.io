@@ -9,12 +9,12 @@ body {
   background-color: #E5E4E2;
   background-repeat:no-repeat;
   background-size: cover;
-  font-family: 'Saira Semi Condensed', sans-serif;;
-
+  font-family: 'Saira Semi Condensed', sans-serif;
+  line-height: 15px;
 }
 
 h1 {
-  font-size: 2rem;
+  font-size: 2.5rem;
 }
 h2 {
   font-size: 1rem;
